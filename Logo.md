@@ -1,1 +1,0 @@
-![DALL·E 2023-10-26 15 38 12 - Vector logo design for 'IonDetect Innovations' where a lightning bolt seamlessly transitions into an ion symbol, with the company name elegantly place](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/bab2b217-413f-4bdd-a08e-bbcd951f4bce)
