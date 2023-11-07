@@ -16,3 +16,5 @@ https://docs.google.com/presentation/d/197FrV3VQS7epab36L3JHWUw1E5opGGDU-xeTYVpO
 ![unnamed](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/60edae61-e9e0-479e-b502-383232e18012)
 ![unnamed-2](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/7a138b69-9728-419e-9d44-d644124e6784)
 
+## Alexnet
+[Alexnet](https://raw.githubusercontent.com/Masterx-AI/AlexNet-Implementation/main/AlexNet.png)https://raw.githubusercontent.com/Masterx-AI/AlexNet-Implementation/main/AlexNet.png
