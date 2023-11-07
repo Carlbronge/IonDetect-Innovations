@@ -13,4 +13,6 @@ In the United States,over the course of 40 years, there has been an extreme rise
 ## Data Deck
 The data being used involves pictures of the sky in different locations, above water and cities. 50 of the slides include the sky with lightening and 50 of the slides include the sky without lightening.
 https://docs.google.com/presentation/d/197FrV3VQS7epab36L3JHWUw1E5opGGDU-xeTYVpOcOY/edit#slide=id.g1e5fe554cc7_0_0 
+![unnamed](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/60edae61-e9e0-479e-b502-383232e18012)
+![unnamed-2](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/7a138b69-9728-419e-9d44-d644124e6784)
 
