@@ -97,6 +97,8 @@ By stacking multiple convolutional layers, each producing a set of feature maps,
 Feature Maps Acheived Using Alexnet:
 ![Unknown-12](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/189edf5e-04b7-4a39-9e5f-5c4496a78f95)
 
+[Colab Notebook AlexNet](https://colab.research.google.com/drive/1R7W1J4tNdb53qzN_XXiPQiOOaCN_28RM?usp=sharing)
+
 ## Yolov5
 
 YOLOv5 (You Only Look Once version 5) is a state-of-the-art object detection system that has gained popularity in the field of computer vision. It's an evolution of the YOLO series, known for its speed and accuracy in detecting objects in images and videos.
