@@ -43,7 +43,7 @@ Extending Beyond Lightning: While the focus is currently on lightning, this meth
 
 In summary, the use of sky images in different locations with and without lightning presents a comprehensive approach using Alexnet to training an AI model for weather prediction. This method holds promise in enhancing the accuracy of predicting storm patterns and intensities, which is crucial for disaster preparedness and mitigating weather-related damages.
 
-[Data Deck](https://docs.google.com/presentation/d/197FrV3VQS7epab36L3JHWUw1E5opGGDU-xeTYVpOcOY/edit#slide=id.g1e5fe554cc7_0_0)
+**[Data Deck](https://docs.google.com/presentation/d/197FrV3VQS7epab36L3JHWUw1E5opGGDU-xeTYVpOcOY/edit#slide=id.g1e5fe554cc7_0_0)**
 ![unnamed](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/60edae61-e9e0-479e-b502-383232e18012)
 ![unnamed-2](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/7a138b69-9728-419e-9d44-d644124e6784)
 
