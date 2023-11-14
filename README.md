@@ -26,7 +26,23 @@ In summary, the goal is to use AI and AlexNet to predict weather patterns and st
 ![1F078839-0842-4AE8-9419-4D3000BD7582](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/3f7223ce-b850-43b0-b122-8bf169726d58)
 
 ## Data Deck
-The data being used involves pictures of the sky in different locations, above water and cities. 50 of the slides include the sky with lightening and 50 of the slides include the sky without lightening.
+The dataset is divided into two main categories: 50 slides featuring skies with lightning and 50 slides featuring skies without lightning. This approach is strategic for several reasons:
+
+1. Variety of Locations: By capturing images of the sky above different environments like water bodies and urban areas, you can account for the varying effects these landscapes have on weather patterns. For example, urban heat islands can influence storm development differently compared to over water.
+
+2. Lightning vs. Non-Lightning Skies: The comparison between skies with and without lightning is crucial. It allows the AI model, presumably using AlexNet, to learn the distinguishing features of stormy versus non-stormy conditions. This contrast is essential for the model to accurately identify the onset of storm conditions.
+  
+3. Image Recognition and Pattern Analysis: Using AlexNet, a powerful tool in image recognition, you can analyze these photographs to identify patterns and characteristics associated with storm development. This could include cloud formations, lightning frequency and intensity, and other atmospheric conditions visible in the images.
+   
+4. Training the AI Model: The dataset serves as a training ground for the AI. By exposing it to various scenarios, the model can learn and improve its predictive capabilities. The balance of 50 slides each for lightning and non-lightning conditions ensures that the model is not biased towards one type of weather condition.
+
+5. Challenges and Considerations: One challenge in this approach is ensuring that the dataset is comprehensive and representative. Factors like time of day, season, and geographical diversity need to be considered. Additionally, the quality and resolution of the images are crucial for accurate pattern recognition.
+
+6. Potential Applications: If successful, this method can be used to predict lightning and storm development, which is vital for early warning systems. This can significantly help in disaster preparedness, especially in areas frequently hit by severe storms.
+Extending Beyond Lightning: While the focus is currently on lightning, this methodology could potentially be extended to predict other weather phenomena, such as heavy rains, hailstorms, or even tornadoes, by adapting the type of data fed into the model.
+
+In summary, the use of sky images in different locations with and without lightning presents a comprehensive approach using Alexnet to training an AI model for weather prediction. This method holds promise in enhancing the accuracy of predicting storm patterns and intensities, which is crucial for disaster preparedness and mitigating weather-related damages.
+
 https://docs.google.com/presentation/d/197FrV3VQS7epab36L3JHWUw1E5opGGDU-xeTYVpOcOY/edit#slide=id.g1e5fe554cc7_0_0 
 ![unnamed](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/60edae61-e9e0-479e-b502-383232e18012)
 ![unnamed-2](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/7a138b69-9728-419e-9d44-d644124e6784)
