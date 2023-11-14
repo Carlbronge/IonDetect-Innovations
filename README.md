@@ -2,7 +2,6 @@
 ![DALL·E 2023-10-26 15 38 12 - Vector logo design for 'IonDetect Innovations' where a lightning bolt seamlessly transitions into an ion symbol, with the company name elegantly place](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/bab2b217-413f-4bdd-a08e-bbcd951f4bce)
 
 # Problem
-**Rising Cost of Extreme Weather Damage**
 
 The rise in weather-related damages in the United States over the past 40 years reflects a significant challenge. These damages encompass a wide range of issues including housing and auto damage, as well as personal health impacts. One key factor contributing to this situation is the limitations in weather prediction technology. Accurate prediction of storm patterns, intensity, and paths is crucial in reducing the cost and impact of weather-related damages.
 
@@ -20,9 +19,10 @@ Focusing on Florida, the state is particularly vulnerable to tropical storms and
 
 In summary, the goal is to use AI and AlexNet to predict weather patterns and storm trajectories by tracking lightning strikes is a forward-thinking approach that could significantly contribute to reducing weather-related damages, especially in hurricane-prone areas like Florida. The success of this project could have far-reaching implications for weather forecasting and disaster preparedness.
 
+**Rising Cost of Extreme Weather Damage**
 ![8406E3AB-C50E-4B12-83E6-F2E84312CE71](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/d48383af-5cb8-426e-b255-8381629ecfc0)
 
-## The Increase Coralation of Weather Prediction
+**The Increase Coralation of Weather Prediction**
 ![1F078839-0842-4AE8-9419-4D3000BD7582](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/3f7223ce-b850-43b0-b122-8bf169726d58)
 
 ## Data Deck
