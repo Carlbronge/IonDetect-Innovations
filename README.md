@@ -17,7 +17,7 @@ Focusing on Florida, the state is particularly vulnerable to tropical storms and
 
 5. **Potential Impact**: If successful, this approach could revolutionize weather prediction, particularly in areas prone to severe storms like Florida. It could also serve as a model for other regions facing similar challenges.
 
-In summary, the goal is to use AI and AlexNet to predict weather patterns and storm trajectories by tracking lightning strikes is a forward-thinking approach that could significantly contribute to reducing weather-related damages, especially in hurricane-prone areas like Florida. The success of this project could have far-reaching implications for weather forecasting and disaster preparedness.
+In summary, the goal is to use Yolov5 and AlexNet to predict weather patterns and storm trajectories by tracking lightning strikes is a forward-thinking approach that could significantly contribute to reducing weather-related damages, especially in hurricane-prone areas like Florida. The success of this project could have far-reaching implications for weather forecasting and disaster preparedness.
 
 Rising Cost of Extreme Weather Damage
 
@@ -97,4 +97,28 @@ By stacking multiple convolutional layers, each producing a set of feature maps,
 Feature Maps Acheived Using Alexnet:
 ![Unknown-12](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/189edf5e-04b7-4a39-9e5f-5c4496a78f95)
 
+## Yolov5
 
+YOLOv5 (You Only Look Once version 5) is a state-of-the-art object detection system that has gained popularity in the field of computer vision. It's an evolution of the YOLO series, known for its speed and accuracy in detecting objects in images and videos.
+
+Background and Evolution: YOLO is a series of object detection models that revolutionized the field by offering fast, real-time detection capabilities. The original YOLO model was introduced by Joseph Redmon and others in 2016. Since then, it has seen several improvements and iterations, with YOLOv5 being one of the latest (as of my last update in April 2023).
+
+Design and Architecture: YOLOv5, like its predecessors, is a single-stage detector. This means it predicts both the bounding boxes and class probabilities in one go, as opposed to two-stage detectors like R-CNN, which first propose regions and then classify them. It uses a deep convolutional neural network to process the input image and predict bounding boxes and class probabilities for each object detected.
+
+Performance and Speed: YOLOv5 is designed for speed and efficiency, making it suitable for applications requiring real-time detection, such as video analysis or robotics.
+Despite its speed, it maintains a high level of accuracy, making it a popular choice for practical applications.
+
+Improvements over Previous Versions: YOLOv5 includes several improvements over its predecessors, like better optimization, support for more layers and channels, and enhanced performance on a variety of hardware platforms.
+
+Applications: It's used in a wide range of applications including surveillance, autonomous vehicles, industrial inspection, and augmented reality, among others.
+
+Training and Usage: YOLOv5 can be trained on custom datasets, allowing it to be adapted for specific object detection tasks. It's compatible with various programming environments and can be integrated into different systems and workflows.
+
+Open-Source and Community Support: YOLOv5 is available as an open-source project, with a large community contributing to its development and improvement. This support network provides extensive resources for learning and troubleshooting.
+
+In summary, YOLOv5 stands out for its speed, efficiency, and accuracy in object detection tasks, making it a highly valuable tool in the field of computer vision. It builds upon the legacy of the YOLO series, continuing to push the boundaries of what's possible in real-time object detection.
+
+Yolov5 Data
+![Unknown-15](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/11a69015-3cd5-43d6-a8bd-6a6bce3981b7)
+
+[Colab Notebook YoloV5](https://colab.research.google.com/drive/1uAS-x1nJVMpopg2dknXnwDHaAcJR2fTg?usp=sharing)https://colab.research.google.com/drive/1uAS-x1nJVMpopg2dknXnwDHaAcJR2fTg?usp=sharing)
