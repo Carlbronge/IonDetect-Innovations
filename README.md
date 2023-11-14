@@ -53,3 +53,41 @@ In summary, the use of sky images in different locations with and without lightn
 ## Alexnet
 ![B99448EC-67D9-4DB3-9C18-3807E40EFDA4](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/c82a1b14-3af8-42ca-91e9-9e117b279cb4)
 
+Input Layer (conv1): The first layer is the input layer where the network takes in the image. The image is typically broken down into its red, green, and blue (RGB) components, each forming a separate channel. The depth of this layer (number of channels) is usually 3, for the 3 color channels in an image.
+
+First Convolutional Layer (conv1): The first convolutional layer applies numerous filters to the input image to create a feature map. This process captures the basic features of the image, such as edges and corners. The depth of this layer is determined by the number of filters used, in this case, 64.
+
+Second Convolutional Layer (conv2): The second convolutional layer takes the output of the first layer as its input and applies additional filters to capture more complex features. The number of filters increases, which is typical in CNNs as deeper layers capture more complex features, in this case, 192 filters.
+
+Third Convolutional Layer (conv3.x): This layer has three consecutive convolutional stages (conv3.1, conv3.2, conv3.3) without pooling in between, which is a characteristic feature of AlexNet. It enables the network to learn even more complex features. The number of filters increases with each stage, here shown as 384, 256, and 256 respectively.
+
+Fully Connected Layers (fc4, fc5, fc6): After several convolutional and pooling layers, the high-level reasoning in the neural network is done through fully connected layers.Neurons in a fully connected layer have full connections to all activations in the previous layer. These layers are typically designed to flatten the 2D feature maps into a 1D vector of features. The first two fully connected layers (fc4 and fc5) have the same number of neurons, usually a large number like 4096. The last fully connected layer (fc6) reduces the dimension to the number of classes in the dataset.
+
+Softmax Layer (fc6+softmax): The final layer is a softmax function, which is used to generate probabilities for the various class labels. The softmax function takes the raw scores from the last fully connected layer and normalizes them into probabilities that sum to one. The output dimensionality of the softmax layer corresponds to the number of classes the model is designed to recognize.
+
+Each layer in the network extracts increasingly complex features. Early layers might identify simple edges, textures, or colors, while deeper layers might identify more complex structures like shapes or specific objects. After training on a large dataset with labeled images, the network can use the features it has learned to classify new images with similar characteristics. AlexNet was particularly noted for its success in the ImageNet competition, drastically reducing the error rate for image classification upon its introduction.
+
+AlexNet is a convolutional neural network that was designed to classify images into a large number of categories. To explain how AlexNet works in Python, we would use a deep learning library such as TensorFlow or PyTorch to build the model.
+
+Purpose and Use: TensorFlow is designed to facilitate the development of machine learning models. It is particularly known for its use in deep learning, which is a subset of machine learning involving neural networks with many layers.
+
+Key Features:
+Graph-Based Structure: TensorFlow represents computations as graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This structure is powerful for visualizing and optimizing complex networks.
+
+Flexibility: It supports a wide range of tasks, primarily focused on training and inference of deep neural networks. It can be used for classification, perception, understanding, discovering, predicting, and creation tasks.
+
+Portability: TensorFlow models can run on multiple CPUs and GPUs as well as on mobile operating systems, making it highly versatile.
+
+Using Google Colab with a GPU is a popular choice for many data scientists and researchers, especially those who require high computational power but do not have access to powerful local machines. Here's a guide to understanding and using Google Colab with a GPU:
+
+Google Colab, or "Colaboratory", is a free cloud service hosted by Google to encourage machine learning and artificial intelligence research. It's based on Jupyter Notebooks and allows you to write and execute Python in your browser.It provides free access to computing resources including GPUs and TPUs (Tensor Processing Units).
+
+Benefits of Using a GPU in Colab:
+
+Speed: GPUs are significantly faster than traditional CPUs for specific tasks, particularly matrix operations and parallel processing tasks common in deep learning.
+
+Cost-Effective: Access to GPUs in Colab is free (with certain usage limits), which is beneficial for those who can’t afford expensive hardware.
+
+How to Use a GPU in Colab:You can enable GPU acceleration in your Colab notebook by going to “Runtime” > “Change runtime type” and selecting “GPU” in the hardware accelerator drop-down menu.
+
+Training machine learning models, especially deep learning models that are computationally intensive.Experimenting with different models and datasets without worrying about local hardware limitations.Integration with TensorFlow and Other Libraries: Colab supports popular machine learning libraries like TensorFlow, PyTorch, Keras, and others. You can easily import these libraries and use them to build and train models on the GPU.
