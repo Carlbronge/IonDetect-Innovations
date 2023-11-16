@@ -76,7 +76,7 @@ Graph-Based Structure: TensorFlow represents computations as graphs. Nodes in th
 Flexibility: It supports a wide range of tasks, primarily focused on training and inference of deep neural networks. It can be used for classification, perception, understanding, discovering, predicting, and creation tasks.
 
 ## Google Colab
-Portability: TensorFlow models can run on multiple CPUs and GPUs as well as on mobile operating systems, making it highly versatile.
+TensorFlow models can run on multiple CPUs and GPUs as well as on mobile operating systems, making it highly versatile.
 Using Google Colab with a GPU is a popular choice for many data scientists and researchers, especially those who require high computational power but do not have access to powerful local machines.
 
 Here's a guide to understanding and using Google Colab with a GPU: Google Colab, or "Colaboratory", is a free cloud service hosted by Google to encourage machine learning and artificial intelligence research. It's based on Jupyter Notebooks and allows you to write and execute Python in your browser.It provides free access to computing resources including GPUs and TPUs (Tensor Processing Units).
