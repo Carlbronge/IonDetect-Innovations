@@ -71,17 +71,24 @@ AlexNet is a convolutional neural network that was designed to classify images i
 
 Purpose and Use: TensorFlow is designed to facilitate the development of machine learning models. It is particularly known for its use in deep learning, which is a subset of machine learning involving neural networks with many layers.
 
-Key Features:
 Graph-Based Structure: TensorFlow represents computations as graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This structure is powerful for visualizing and optimizing complex networks.
+
 Flexibility: It supports a wide range of tasks, primarily focused on training and inference of deep neural networks. It can be used for classification, perception, understanding, discovering, predicting, and creation tasks.
+
+## Google Colab
 Portability: TensorFlow models can run on multiple CPUs and GPUs as well as on mobile operating systems, making it highly versatile.
-Using Google Colab with a GPU is a popular choice for many data scientists and researchers, especially those who require high computational power but do not have access to powerful local machines. Here's a guide to understanding and using Google Colab with a GPU:
-Google Colab, or "Colaboratory", is a free cloud service hosted by Google to encourage machine learning and artificial intelligence research. It's based on Jupyter Notebooks and allows you to write and execute Python in your browser.It provides free access to computing resources including GPUs and TPUs (Tensor Processing Units).
+Using Google Colab with a GPU is a popular choice for many data scientists and researchers, especially those who require high computational power but do not have access to powerful local machines.
+
+Here's a guide to understanding and using Google Colab with a GPU: Google Colab, or "Colaboratory", is a free cloud service hosted by Google to encourage machine learning and artificial intelligence research. It's based on Jupyter Notebooks and allows you to write and execute Python in your browser.It provides free access to computing resources including GPUs and TPUs (Tensor Processing Units).
 
 Benefits of Using a GPU in Colab:
+
 Speed: GPUs are significantly faster than traditional CPUs for specific tasks, particularly matrix operations and parallel processing tasks common in deep learning.
+
 Cost-Effective: Access to GPUs in Colab is free (with certain usage limits), which is beneficial for those who can’t afford expensive hardware.
+
 How to Use a GPU in Colab:You can enable GPU acceleration in your Colab notebook by going to “Runtime” > “Change runtime type” and selecting “GPU” in the hardware accelerator drop-down menu.
+
 Training machine learning models, especially deep learning models that are computationally intensive.Experimenting with different models and datasets without worrying about local hardware limitations.Integration with TensorFlow and Other Libraries: Colab supports popular machine learning libraries like TensorFlow, PyTorch, Keras, and others. You can easily import these libraries and use them to build and train models on the GPU.
 
 Feature maps are a fundamental concept in the field of deep learning, particularly in convolutional neural networks (CNNs). They play a crucial role in the process of learning from and interpreting image data. Here's an overview of what feature maps are and their significance:
