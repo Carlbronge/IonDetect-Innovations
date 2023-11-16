@@ -132,6 +132,18 @@ Yolov5 Data
 
 [Colab Notebook YoloV5](https://colab.research.google.com/drive/1uAS-x1nJVMpopg2dknXnwDHaAcJR2fTg?usp=sharing)
 
+## Pose Machine
+
+MoveNet is an ultra fast and accurate model that detects 17 keypoints of a body. The model is offered on TF Hub with two variants, known as Lightning and Thunder. Lightning is intended for latency-critical applications, while Thunder is intended for applications that require high accuracy. Both models run faster than real time (30+ FPS) on most modern desktops, laptops, and phones, which proves crucial for live fitness, health, and wellness applications.
+
+This session demonstrates the minumum working example of running the model on a single image to predict the 17 human keypoints.
+![Unknown-16](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/08be67b8-e17c-4902-9d5d-c6ae172d8622)
+
+
+This section demonstrates how to apply intelligent cropping based on detections from the previous frame when the input is a sequence of frames. This allows the model to devote its attention and resources to the main subject, resulting in much better prediction quality without sacrificing the speed.
+![Unknown](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/ef055f2a-8f1f-4bd6-9efc-9fc5310f5467)
+
+
 ## Weights and Bias (wandb)
 
 Weights & Biases (WandB) is an MLOps (Machine Learning Operations) platform designed to help data scientists and machine learning engineers track, visualize, and manage their machine learning experiments.
