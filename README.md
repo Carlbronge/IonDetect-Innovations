@@ -145,7 +145,7 @@ This section demonstrates how to apply intelligent cropping based on detections 
 
 ![Unknown](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/ef055f2a-8f1f-4bd6-9efc-9fc5310f5467)
 
-
+[Colab Notebook Pose Machine](https://colab.research.google.com/drive/1N0DjwcxjK7mr81V3HeE__GRUHikmYvKc)
 ## Weights and Bias (wandb)
 
 Weights & Biases (WandB) is an MLOps (Machine Learning Operations) platform designed to help data scientists and machine learning engineers track, visualize, and manage their machine learning experiments.
