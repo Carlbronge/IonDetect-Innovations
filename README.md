@@ -174,13 +174,13 @@ In summary, Weights & Biases is a comprehensive MLOps tool that helps in streaml
 Wandb Results
 [Wandb Report Page](https://wandb.ai/cbronge/Linear_Model_Photo_1?workspace=user-cbronge2022)
 
-Initial Run Results: Acc= 84%  Loss=47%
+Initial Run Results: Acc= 84%  Loss=47
 ![Screen Shot 2023-12-07 at 4 33 39 PM](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/87c5cda2-fb00-4972-9e0b-6fec4402e138)
 
-Test Run Results: Acc= 84%  Loss=47%
+Test Run Results: Acc= 84%  Loss=47
 ![Screen Shot 2023-12-07 at 4 37 09 PM](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/e2f8aafa-3dc2-4d93-80f4-9c4995351351)
 
-Final Run Results: Acc= 97%  Loss=38%
+Final Run Results: Acc= 97%  Loss=38
 ![Screen Shot 2023-12-07 at 4 35 31 PM](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/48960463-f5df-44b2-a4cc-0823f3a3a69f)
 
 Run Summary
