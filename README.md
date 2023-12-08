@@ -1,6 +1,8 @@
 # IonDetect-Innovations
 ![DALL·E 2023-10-26 15 38 12 - Vector logo design for 'IonDetect Innovations' where a lightning bolt seamlessly transitions into an ion symbol, with the company name elegantly place](https://github.com/Carlbronge/IonDetect-Innovations/assets/143009718/bab2b217-413f-4bdd-a08e-bbcd951f4bce)
 
+[Meet the CEO](https://www.youtube.com/watch?v=aRBZ3XZI2ys)
+
 # Problem
 
 The rise in weather-related damages in the United States over the past 40 years reflects a significant challenge. These damages encompass a wide range of issues including housing and auto damage, as well as personal health impacts. One key factor contributing to this situation is the limitations in weather prediction technology. Accurate prediction of storm patterns, intensity, and paths is crucial in reducing the cost and impact of weather-related damages.
